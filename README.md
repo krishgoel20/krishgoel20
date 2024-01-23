@@ -4,20 +4,20 @@ I'm Krish Goel. Welcome to my GitHub corner !
 
 ## About Me
 
-- 🌱 I’m currently in my Pre-Final Year at Vellore Institute of Technology (V.I.T.), Chennai.
+- 🌱 I’m currently a Pre-Final Year student pursuing Computer Science and Engineering (C.S.E.) at Vellore Institute of Technology (V.I.T.), Chennai.
 - 🚀 I love coding and enjoy exploring new technologies.
-- 💻 Currently working on [Current Project/Job] to [Brief Description].
+- 💻 I am always ready to have new experiences, meet new people from different walks of life, embrace new challenges and add more to my existing skillset.
 - 📫 How to reach me :
         1. E-mail : krishgoel20mar@gmail.com
         2. LinkedIn : https://www.linkedin.com/in/krish-goel/
 
 ## My Tech Stack
 
-- 🔧 [Favorite Programming Languages]
-- 🛠️ [Frameworks and Tools]
-- 🌐 [Other Technologies or Platforms]
+- 🔧 Programming Languages : Python, C/C++, Java, HTML, CSS
+- 🛠️ Frameworks and Tools : MATLAB, MySQL, VS Code, StarUML, Visual Paradigm, Cisco Packet Tracer (CPT), Python IDLE, BlueJ
+- 🌐 Other Technologies or Platforms : Problem Solving, DSA, Data Visualization, Data Analysis, Data Science, Graphical User Interface (GUI), Web Development, App Development, Agile Methodologies, Object-Oriented Programming (OOP)
 
-Feel free to explore my repositories and provide feedback. Let's connect and collaborate on exciting projects!
+Feel free to explore my repositories and provide feedback. Let's connect and collaborate on exciting projects !
 
 ## Connect with Me
 
