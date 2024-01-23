@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Krish Goel. Welcome to my GitHub corner !!!
 
