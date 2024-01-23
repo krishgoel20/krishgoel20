@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Krish Goel. Welcome to my GitHub corner !
+I'm Krish Goel. Welcome to my GitHub corner !!!
 
 ## About Me
 
@@ -17,13 +17,13 @@ I'm Krish Goel. Welcome to my GitHub corner !
 - 🛠️ Frameworks and Tools : MATLAB, MySQL, VS Code, StarUML, Visual Paradigm, Cisco Packet Tracer (CPT), Python IDLE, BlueJ
 - 🌐 Other Technologies or Platforms : Problem Solving, DSA, Data Visualization, Data Analysis, Data Science, Graphical User Interface (GUI), Web Development, App Development, Agile Methodologies, Object-Oriented Programming (OOP)
 
-Feel free to explore my repositories and provide feedback. Let's connect and collaborate on exciting projects !
+Feel free to explore my repositories and provide feedback. Let's connect and collaborate on exciting projects !!!
 
 ## Connect with Me
 
 - 📧 [E-mail](krishgoel20mar@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/krish-goel/)
 
-Thanks for visiting! 😊
+Thanks for visiting !!! 😊
 
 <!-- **krishgoel20/krishgoel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
