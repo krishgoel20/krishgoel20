@@ -21,7 +21,7 @@ Feel free to explore my repositories and provide feedback. Let's connect and col
 
 ## Connect with Me
 
-- 📧 [Your Email](krishgoel20mar@gmail.com)
+- 📧 [E-mail](krishgoel20mar@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/krish-goel/)
 
 Thanks for visiting! 😊
