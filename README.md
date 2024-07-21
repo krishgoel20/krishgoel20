@@ -4,7 +4,7 @@ I'm Krish Goel. Welcome to my GitHub corner !!!
 
 ## About Me
 
-- 🌱 I’m currently a Pre-Final Year student pursuing Computer Science and Engineering (C.S.E.) at Vellore Institute of Technology (V.I.T.), Chennai.
+- 🌱 I’m currently a Final Year student pursuing Computer Science and Engineering (C.S.E.) at Vellore Institute of Technology (V.I.T.), Chennai.
 - 🚀 I love coding and enjoy exploring new technologies.
 - 💻 I am always ready to have new experiences, meet new people from different walks of life, embrace new challenges and add more to my existing skillset.
 - 📫 How to reach me :
