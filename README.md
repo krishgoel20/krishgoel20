@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>🚀 A passionate explorer in tech — always curious about how things work 🧠</em><br>
+  <em>🚀 A passionate explorer in tech. — always curious about how things work 🧠</em><br>
   <em>🌱 Constantly learning and experimenting with new tools and technologies</em><br>
 </p>
 
