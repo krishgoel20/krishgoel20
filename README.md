@@ -13,8 +13,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on improving my backend and cloud deployment skills
-- 🌱 I’m diving deeper into **AWS**, **React**, and **APIs**
+- 🔭 I’m currently working on improving my backend and AI skills
+- 🌱 I’m diving deeper into **AWS**, **AI**, and **APIs**
 - 🧠 I love breaking things just to understand how to fix them
 - ⚡ Fun Fact: I can talk about logic bugs like they’re unsolved mysteries 🕵️‍♀️
 - 💬 Ask me about **Java**, **Python**, **SQL**, or **how to over-engineer a side project**
